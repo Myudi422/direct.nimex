@@ -99,7 +99,7 @@ async def private_receive_handler(c: Client, m: Message):
 
 <b> 🖥 WATCH    :</b> <i>{}</i>
 
-<b>🚸 Nᴏᴛᴇ : LINK WON'T EXPIRE  </b>
+<b>🚸 Nᴏᴛᴇ : Link akan kadaluarsa selama 1 hari!!  </b>
 
 """
 
