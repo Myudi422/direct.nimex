@@ -205,12 +205,12 @@ async def help_handler(bot, message):
             return
    
     await message.reply_text(
-       text="Send me any file/media from telegram, I'll provide external direct download link..",
+       text="Kirimi saya file/media apa pun dari telegram, saya akan memberikan tautan unduhan langsung eksternal ..",
             parse_mode="HTML",
             
           reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("😇Donate", url="https://t.me/codexmania")]
+                [InlineKeyboardButton("😇Donate", url="https://trakteer.id/ccgnimeX")]
             ]
         )
     )
